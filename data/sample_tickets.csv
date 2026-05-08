@@ -1,0 +1,11 @@
+TicketID
+DateLogged
+Department
+Location
+IssueDescription
+Severity
+UsersAffected
+AssignedTeam
+Status
+ResolutionTime
+Escalated
