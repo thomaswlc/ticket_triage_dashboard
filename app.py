@@ -1,4 +1,5 @@
 # app.py
+# Main Streamlit application for the IT Support Ticket Triage Dashboard.
 from pathlib import Path
 import streamlit as st
 import pandas as pd

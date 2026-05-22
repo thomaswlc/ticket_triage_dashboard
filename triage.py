@@ -1,4 +1,5 @@
 # triage.py
+# This module contains the core triage logic for analyzing IT support tickets.
 from typing import Dict, Any
 from rules import (
     match_issue_type, TEAM_BY_TYPE, SEVERITY_TO_BASE_PRIORITY,

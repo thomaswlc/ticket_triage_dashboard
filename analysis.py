@@ -1,4 +1,5 @@
 # analysis.py
+# This module contains the data loading, triage application, and KPI computation logic for the IT support ticket triage dashboard.
 import pandas as pd
 from datetime import datetime
 from triage import triage_ticket

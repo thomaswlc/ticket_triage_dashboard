@@ -1,4 +1,5 @@
 # rules.py
+# This module defines the triage rules and logic for analyzing IT support tickets.
 import re
 from datetime import timedelta
 
