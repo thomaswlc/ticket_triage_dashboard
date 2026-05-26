@@ -11,7 +11,7 @@ df = pd.read_csv("data/test_data.csv")
 
 def highlight_severity(val):
     if val == "High":
-        return "background-color: #FF5A00" # colors
+        return "background-color: #FF5A00" # colors 2
     elif val == "Critical":
         return "background-color: #FF0000"
     elif val == "Medium":
