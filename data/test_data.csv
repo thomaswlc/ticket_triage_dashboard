@@ -1,0 +1,21 @@
+Ticket ID,Date logged,Department,Location,Issue description,Severity,Number of users affected,Assigned team,Status,Resolution time,Escalated or not
+TKT-1001,2026-05-01 08:15,Finance,London,Users unable to login after password reset,Medium,3,Service Desk,Open,2,No
+TKT-1002,2026-05-01 09:40,HR,London,VPN disconnecting repeatedly for remote staff,High,25,Network Ops,In Progress,5,Yes
+TKT-1003,2026-05-02 10:05,Operations,Manchester,Printer hardware failure on floor 3,Low,2,End User Computing,Closed,4,No
+TKT-1004,2026-05-02 11:20,Sales,Birmingham,CRM software crashing during customer calls,High,18,Applications Support,Open,6,No
+TKT-1005,2026-05-03 07:50,IT,London,Possible phishing email reported by multiple users,Critical,120,Security Operations,In Progress,1,Yes
+TKT-1006,2026-05-03 12:10,Finance,London,Access denied to payroll system,Medium,5,Service Desk,Open,3,No
+TKT-1007,2026-05-04 13:30,Marketing,Leeds,WiFi outage affecting entire office,Critical,85,Network Ops,Open,2,Yes
+TKT-1008,2026-05-04 14:00,Operations,Manchester,Laptop battery swollen and overheating,High,1,End User Computing,Closed,8,No
+TKT-1009,2026-05-05 09:15,HR,London,Account locked after MFA failure,Medium,4,Service Desk,Resolved,1,No
+TKT-1010,2026-05-05 15:25,Sales,Birmingham,Slow network latency impacting Teams calls,Medium,40,Network Ops,In Progress,7,Yes
+TKT-1011,2026-05-06 08:45,Finance,London,Software update failed with timeout error,Low,6,Applications Support,Open,5,No
+TKT-1012,2026-05-06 10:30,IT,London,Ransomware alert detected on endpoint,Critical,200,Security Operations,Open,1,Yes
+TKT-1013,2026-05-07 11:15,Marketing,Leeds,Monitor flickering intermittently,Low,1,End User Computing,Closed,2,No
+TKT-1014,2026-05-07 13:50,Operations,Manchester,Production system down after patch install,Critical,95,Applications Support,In Progress,3,Yes
+TKT-1015,2026-05-08 09:05,Finance,London,Password reset email not received,Low,2,Service Desk,Resolved,1,No
+TKT-1016,2026-05-08 16:40,HR,London,Shared drive access permission issue,Medium,12,Service Desk,Open,4,No
+TKT-1017,2026-05-09 08:10,Sales,Birmingham,Router disconnect causing network outage,High,60,Network Ops,Open,2,Yes
+TKT-1018,2026-05-09 10:55,IT,London,Security incident involving unauthorised login,Critical,15,Security Operations,In Progress,2,Yes
+TKT-1019,2026-05-10 11:35,Marketing,Leeds,Desktop fan making loud noise,Low,1,End User Computing,Closed,6,No
+TKT-1020,2026-05-10 14:20,Operations,Manchester,Application bug causing reporting errors,Medium,10,Applications Support,Open,5,No

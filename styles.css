@@ -1,0 +1,53 @@
+/* Main background */
+.stApp {
+    background-color: #161616;
+    color: #f4f4f4;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #1e1e1e;
+    border-right: 2px solid #393939;
+    width: 220px;
+}
+
+/* Metric cards */
+[data-testid="metric-container"] {
+    background-color: #262626;
+    border: 1px solid #393939;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* Tables */
+.stDataFrame {
+    border: 1px solid #393939;
+    border-radius: 8px;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 20px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: #262626;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #0f62fe;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #f4f4f4;
+}
+
+/* Buttons */
+.stButton button {
+    background-color: #0f62fe;
+    color: white;
+    border: none;
+}
